@@ -1,0 +1,10 @@
+NLeite,Café,NCerveja,Pão,Manteiga,NArroz,NFeijão
+Leite,NCafé,Cerveja,Pão,Manteiga,NArroz,NFeijão
+NLeite,Café,NCerveja,Pão,Manteiga,NArroz,NFeijão
+Leite,Café,NCerveja,Pão,Manteiga,NArroz,NFeijão
+NLeite,NCafé,Cerveja,NPão,NManteiga,NArroz,NFeijão
+NLeite,NCafé,NCerveja,NPão,Manteiga,NArroz,NFeijão
+NLeite,NCafé,NCerveja,Pão,NManteiga,NArroz,NFeijão
+NLeite,NCafé,NCerveja,NPão,NManteiga,NArroz,Feijão
+NLeite,NCafé,NCerveja,NPão,NManteiga,Arroz,Feijão
+NLeite,NCafé,NCerveja,NPão,NManteiga,Arroz,NFeijão
